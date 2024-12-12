@@ -13,12 +13,12 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [HTML](#html)
 *   [Vue](#vue)
 *   [JavaScript](#javascript)
-*   [Python](#python)
 *   [Dart](#dart)
 *   [PowerShell](#powershell)
 *   [Java](#java)
@@ -39,6 +39,78 @@
 *   [Dockerfile](#dockerfile)
 *   [Batchfile](#batchfile)
 *   [Rust](#rust)
+
+## Python
+
+*   [simonw/simonw](https://github.com/simonw/simonw) - https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
+
+*   [xihaoduo/FreeNodes](https://github.com/xihaoduo/FreeNodes) - v2ray、clash免费节点爬虫，自动更新
+
+*   [doveppp/linuxdo-checkin](https://github.com/doveppp/linuxdo-checkin) - linux.do Daily Check-In. 每日签到，每日打卡
+
+*   [ermaozi/get\_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔12小时持续更新 | 科学上网 | 翻墙
+
+*   [NEKOparapa/AiNiee](https://github.com/NEKOparapa/AiNiee) - 一款专注于Ai翻译的工具，可以用来一键自动翻译RPG SLG游戏，Epub Word TXT小说，Srt Vtt Lrc字幕等等。
+
+*   [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
+
+*   [GabrielRF/Rss2Telegram](https://github.com/GabrielRF/Rss2Telegram) - Automatically sends rss feed posts to Telegram
+
+*   [hiifong/starList](https://github.com/hiifong/starList) - Export your star's repository list
+
+*   [bighammer-link/jichang\_checkin](https://github.com/bighammer-link/jichang_checkin) - 🚀🚀通用的机场签到😎😎
+
+*   [bighammer-link/jichang\_dailycheckin](https://github.com/bighammer-link/jichang_dailycheckin) - ikuuu机场每日签到
+
+*   [yixiu001/69yuncheckin](https://github.com/yixiu001/69yuncheckin) - 69云自动签到，批量签到获取免费节点流量
+
+*   [SunsetMkt/anti-ip-attribution](https://github.com/SunsetMkt/anti-ip-attribution) - 针对部分网站显示IP归属地的流量分流规则
+
+*   [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
+
+*   [mfbpn/tg\_mfbpn\_sub](https://github.com/mfbpn/tg_mfbpn_sub) -
+
+*   [mfbpn/nodelist](https://github.com/mfbpn/nodelist) - Automatically fetch, measure, and merge subscription links on the network, use Github Action
+
+*   [mfbpn/collectSub](https://github.com/mfbpn/collectSub) -
+
+*   [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs) - free vmess vless trojan shadowsocks live v2ray\_xray configs splitted by country
+
+*   [sinspired/cnNetTool](https://github.com/sinspired/cnNetTool) - 全面解锁Github，解决加载慢、无法访问等问题！解锁Google翻译，支持chrome网页翻译及插件；解锁tinyMediaManager影视刮削；解锁划词翻译。自动设置最佳DNS服务器，Enjoy❤
+
+*   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
+
+*   [awuaaaaa/vless-py](https://github.com/awuaaaaa/vless-py) -
+
+*   [ph-root/proxy-GR](https://github.com/ph-root/proxy-GR) - Python-based Massive Proxy Grabber. This bot grabs proxies from public websites so you can use them.
+
+*   [w1770946466/Auto\_proxy](https://github.com/w1770946466/Auto_proxy) - Automatic acquisition of TG channel proxy information
+
+*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
+
+*   [StuPeter/Sougou\_dict\_spider](https://github.com/StuPeter/Sougou_dict_spider) - 搜狗词库爬虫，全类目下载，自动分类，scel转txt
+
+*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+
+*   [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
+
+*   [JerryLinLinLin/Huorong-ATP-Rules](https://github.com/JerryLinLinLin/Huorong-ATP-Rules) - 一款火绒增强HIPS自定义规则
+
+*   [tyxsspa/AnyText](https://github.com/tyxsspa/AnyText) - Official implementation code of the paper \<AnyText: Multilingual Visual Text Generation And Editing>
+
+*   [Akascape/py-window-styles](https://github.com/Akascape/py-window-styles) - Customize your python UI window with awesome pre-built windows 11 themes.
+
+*   [vsakkas/sydney.py](https://github.com/vsakkas/sydney.py) - Python Client for Copilot (formerly named Bing Chat), also known as Sydney.
+
+*   [zhaoolee/garss](https://github.com/zhaoolee/garss) - Github Actions采集RSS, 打造无广告内容优质的头版头条超赞宝藏页
+
+*   [MrMohebi/xray-proxy-grabber-telegram](https://github.com/MrMohebi/xray-proxy-grabber-telegram) - Xray proxy grabber and checker + JSON and YAML Config - telegram channels
+
+*   [Barabama/FreeNodes](https://github.com/Barabama/FreeNodes) - v2ray、clash免费节点爬虫，自动更新
+
+*   [RimoChan/sese-engine](https://github.com/RimoChan/sese-engine) - 【sese-engine】新时代的搜索引擎！
+
+*   [SharzyL/tg\_searcher](https://github.com/SharzyL/tg_searcher) - A bot to provide versatile Chinese optimized searching for telegram chats.    通过 bot 来给 Telegram 提供针对中文优化的搜索。
 
 ## miscellaneous
 
@@ -92,7 +164,7 @@
 
 *   [Psyhackological/AAA](https://github.com/Psyhackological/AAA) - :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!
 
-*   [TG-Twilight/AWAvenue-Ads-Rule](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) - 开源社区中最优秀的广告过滤器列表之一，实现了最优秀的广告拦截、隐私保护和流量节省。支持各种常见的网络层广告拦截工具和代理工具等。 |   Use Adblock syntax to fight against various advertising SDKs in Android applications from the network level ,  prevent them from loading.
+*   [TG-Twilight/AWAvenue-Ads-Rule](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) - 开源社区中最优秀的广告规则之一，适用于AdGuard (iOS/Android)/Home/DNS、AdAway、hosts、Mosdns、ClashMeta、QuantumultX等众多主流广告拦截工具/代理工具的广告规则。
 
 *   [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - The docker-compose files for setting up a SearXNG instance with docker.
 
@@ -117,8 +189,6 @@
 *   [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
 
 *   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
-
-*   [smartertechnologist/SmarterBookmarks-Android](https://github.com/smartertechnologist/SmarterBookmarks-Android) - Official documentation for the SmarterBookmarks android app
 
 ## TypeScript
 
@@ -222,76 +292,6 @@
 
 *   [Toperlock/Clash](https://github.com/Toperlock/Clash) -
 
-*   [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
-
-## Python
-
-*   [doveppp/linuxdo-checkin](https://github.com/doveppp/linuxdo-checkin) - linux.do Daily Check-In. 每日签到，每日打卡
-
-*   [ermaozi/get\_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔12小时持续更新 | 科学上网 | 翻墙
-
-*   [NEKOparapa/AiNiee](https://github.com/NEKOparapa/AiNiee) - 一款专注于Ai翻译的工具，可以用来一键自动翻译RPG SLG游戏，Epub Word TXT小说，Srt Vtt Lrc字幕等等。
-
-*   [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
-
-*   [GabrielRF/Rss2Telegram](https://github.com/GabrielRF/Rss2Telegram) - Automatically sends rss feed posts to Telegram
-
-*   [hiifong/starList](https://github.com/hiifong/starList) - Export your star's repository list
-
-*   [bighammer-link/jichang\_checkin](https://github.com/bighammer-link/jichang_checkin) - 🚀🚀通用的机场签到😎😎
-
-*   [bighammer-link/jichang\_dailycheckin](https://github.com/bighammer-link/jichang_dailycheckin) - ikuuu机场每日签到
-
-*   [yixiu001/69yuncheckin](https://github.com/yixiu001/69yuncheckin) - 69云自动签到，批量签到获取免费节点流量
-
-*   [SunsetMkt/anti-ip-attribution](https://github.com/SunsetMkt/anti-ip-attribution) - 针对部分网站显示IP归属地的流量分流规则
-
-*   [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
-
-*   [mfbpn/tg\_mfbpn\_sub](https://github.com/mfbpn/tg_mfbpn_sub) -
-
-*   [mfbpn/nodelist](https://github.com/mfbpn/nodelist) - Automatically fetch, measure, and merge subscription links on the network, use Github Action
-
-*   [mfbpn/collectSub](https://github.com/mfbpn/collectSub) -
-
-*   [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs) - free vmess vless trojan shadowsocks live v2ray\_xray configs splitted by country
-
-*   [sinspired/cnNetTool](https://github.com/sinspired/cnNetTool) - 全面解锁Github，解决加载慢、无法访问等问题！解锁Google翻译，支持chrome网页翻译及插件；解锁tinyMediaManager影视刮削；解锁划词翻译。自动设置最佳DNS服务器，Enjoy❤
-
-*   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
-
-*   [awuaaaaa/vless-py](https://github.com/awuaaaaa/vless-py) -
-
-*   [ph-root/proxy-GR](https://github.com/ph-root/proxy-GR) - Python-based Massive Proxy Grabber. This bot grabs proxies from public websites so you can use them.
-
-*   [w1770946466/Auto\_proxy](https://github.com/w1770946466/Auto_proxy) - Automatic acquisition of TG channel proxy information
-
-*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
-
-*   [StuPeter/Sougou\_dict\_spider](https://github.com/StuPeter/Sougou_dict_spider) - 搜狗词库爬虫，全类目下载，自动分类，scel转txt
-
-*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-
-*   [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
-
-*   [JerryLinLinLin/Huorong-ATP-Rules](https://github.com/JerryLinLinLin/Huorong-ATP-Rules) - 一款火绒增强HIPS自定义规则
-
-*   [tyxsspa/AnyText](https://github.com/tyxsspa/AnyText) - Official implementation code of the paper \<AnyText: Multilingual Visual Text Generation And Editing>
-
-*   [Akascape/py-window-styles](https://github.com/Akascape/py-window-styles) - Customize your python UI window with awesome pre-built windows 11 themes.
-
-*   [vsakkas/sydney.py](https://github.com/vsakkas/sydney.py) - Python Client for Copilot (formerly named Bing Chat), also known as Sydney.
-
-*   [zhaoolee/garss](https://github.com/zhaoolee/garss) - Github Actions采集RSS, 打造无广告内容优质的头版头条超赞宝藏页
-
-*   [MrMohebi/xray-proxy-grabber-telegram](https://github.com/MrMohebi/xray-proxy-grabber-telegram) - Xray proxy grabber and checker + JSON and YAML Config - telegram channels
-
-*   [Barabama/FreeNodes](https://github.com/Barabama/FreeNodes) - v2ray、clash免费节点爬虫，自动更新
-
-*   [RimoChan/sese-engine](https://github.com/RimoChan/sese-engine) - 【sese-engine】新时代的搜索引擎！
-
-*   [SharzyL/tg\_searcher](https://github.com/SharzyL/tg_searcher) - A bot to provide versatile Chinese optimized searching for telegram chats.    通过 bot 来给 Telegram 提供针对中文优化的搜索。
-
 ## Dart
 
 *   [lollipopkit/flutter\_gpt\_box](https://github.com/lollipopkit/flutter_gpt_box) - GPTBox - a third-party client for OpenAI API.
@@ -330,7 +330,7 @@
 
 *   [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STIG/SRG requirements for optimal performance and security.
 
-*   [kpcintegrations/KPC-OneCommanderScripts](https://github.com/kpcintegrations/KPC-OneCommanderScripts) - A collection of scripts for the alternative file manager OneCommander. Includes PowerShell Module for advanced scripts.
+*   [kamekairos/KPC-OneCommanderScripts](https://github.com/kamekairos/KPC-OneCommanderScripts) - A collection of scripts for the alternative file manager OneCommander. Includes PowerShell Module for advanced scripts.
 
 ## Java
 
@@ -426,7 +426,7 @@
 
 *   [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 
-*   [Olivia6841/Retro-Shell](https://github.com/Olivia6841/Retro-Shell) - Classic Shell Reborn.
+*   [Olive6841/Retro-Shell](https://github.com/Olive6841/Retro-Shell) - Classic Shell Reborn.
 
 *   [pgkt04/defender-control](https://github.com/pgkt04/defender-control) - An open-source windows defender manager. Now you can disable windows defender permanently.
 
